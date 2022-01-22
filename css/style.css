@@ -1,0 +1,27 @@
+.carousel-background{
+    background-color: #FCEAE8;
+}
+.button-custom{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+
+.text-custom{
+    color: #FF136F;
+}
+.categories-img{
+    width: 100px;
+}
+
+.bg-watch{
+    background-color: #FFA500;
+}
+.bg-bag{
+    background-color: #DA70D6;   
+}
+.bg-shoes{
+    background-color: #0000FF;
+}
